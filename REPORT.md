@@ -19,9 +19,9 @@ The goal was to produce binary masks for:
 ## Metrics (Epoch 10)
 | Metric | Overall | Segment Crack | Segment Taping Area |
 | :--- | :--- | :--- | :--- |
-| **mIoU** | **0.5781** | 0.4409 | 0.6168 |
-| **Dice Score** | **0.7326** | 0.6120 | 0.7630 |
-| **Validation Loss** | **0.1176** | - | - |
+| **mIoU** | **0.5899** | 0.4536 | 0.6297 |
+| **Dice Score** | **0.7421** | 0.6241 | 0.7727 |
+| **Validation Loss** | **0.1168** | - | - |
 
 ## Visual Examples
 Below are examples from the validation set (Epoch 6).
