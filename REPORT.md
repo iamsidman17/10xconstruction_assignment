@@ -16,14 +16,12 @@ The goal was to produce binary masks for:
 -   **Total Train**: ~7600 images.
 -   **Total Val**: ~400 images.
 
-## Metrics (Epoch 8)
+## Metrics (Epoch 10)
 | Metric | Score |
 | :--- | :--- |
 | **mIoU** (Mean Intersection over Union) | **0.4893** |
 | **Dice Score** | **0.6245** |
 | **Validation Loss** | **0.1176** |
-
-*Note: Training is set for 10 epochs. Metrics are updated as training progresses.*
 
 ## Visual Examples
 Below are examples from the validation set (Epoch 6).
