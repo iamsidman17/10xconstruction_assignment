@@ -24,7 +24,7 @@ The goal was to produce binary masks for:
 | **Validation Loss** | **0.1168** | - | - |
 
 ## Visual Examples
-Below are examples from the validation set (Epoch 6).
+Below are examples from the validation set (Epoch 10).
 **Left**: Original Image | **Middle**: Ground Truth | **Right**: Prediction
 
 ![Sample 0](assets/sample_0.png)
