@@ -29,9 +29,9 @@ The goal was to produce binary masks for:
 Below are examples from the validation set (Epoch 6).
 **Left**: Original Image | **Middle**: Ground Truth | **Right**: Prediction
 
-![Sample 0](/Users/sidharthmanakil/.gemini/antigravity/brain/3299a4bc-3619-43b3-9321-e6293c7d1c82/sample_0.png)
-![Sample 1](/Users/sidharthmanakil/.gemini/antigravity/brain/3299a4bc-3619-43b3-9321-e6293c7d1c82/sample_1.png)
-![Sample 2](/Users/sidharthmanakil/.gemini/antigravity/brain/3299a4bc-3619-43b3-9321-e6293c7d1c82/sample_2.png)
+![Sample 0](assets/sample_0.png)
+![Sample 1](assets/sample_1.png)
+![Sample 2](assets/sample_2.png)
 
 ## Failure Notes
 -   **Complex Textures**: In some highly textured walls, the model occasionally hallucinates small cracks.
