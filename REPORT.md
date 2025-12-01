@@ -23,13 +23,25 @@ The goal was to produce binary masks for:
 | **Dice Score** | **0.7421** | 0.6241 | 0.7727 |
 | **Validation Loss** | **0.1168** | - | - |
 
-## Visual Examples
-Below are examples from the validation set (Epoch 10).
-**Left**: Original Image | **Middle**: Ground Truth | **Right**: Prediction
+## Visual Examples (Epoch 10)
 
-![Sample 0](assets/sample_0.png)
-![Sample 1](assets/sample_1.png)
-![Sample 2](assets/sample_2.png)
+### 1. Segment Crack
+**Left**: Original | **Middle**: Ground Truth | **Right**: Prediction
+
+![Crack 0](assets/crack_0.png)
+![Crack 1](assets/crack_1.png)
+![Crack 2](assets/crack_2.png)
+![Crack 3](assets/crack_3.png)
+![Crack 4](assets/crack_4.png)
+
+### 2. Segment Taping Area
+**Left**: Original | **Middle**: Ground Truth | **Right**: Prediction
+
+![Tape 0](assets/tape_0.png)
+![Tape 1](assets/tape_1.png)
+![Tape 2](assets/tape_2.png)
+![Tape 3](assets/tape_3.png)
+![Tape 4](assets/tape_4.png)
 
 ## Reproducibility
 -   **Random Seed**: Default (Random).
