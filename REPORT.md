@@ -31,6 +31,11 @@ Below are examples from the validation set (Epoch 6).
 ![Sample 1](assets/sample_1.png)
 ![Sample 2](assets/sample_2.png)
 
+## Reproducibility
+-   **Random Seed**: Default (Random).
+-   **Environment**: PyTorch on CPU/MPS.
+-   **Dependencies**: See `requirements.txt` (implied).
+
 ## Failure Notes
 -   **Complex Textures**: In some highly textured walls, the model occasionally hallucinates small cracks.
 -   **Ambiguous Joints**: Faint taping areas that are barely visible to the human eye are sometimes missed.
