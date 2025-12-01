@@ -17,11 +17,11 @@ The goal was to produce binary masks for:
 -   **Total Val**: ~400 images.
 
 ## Metrics (Epoch 10)
-| Metric | Score |
-| :--- | :--- |
-| **mIoU** (Mean Intersection over Union) | **0.4893** |
-| **Dice Score** | **0.6245** |
-| **Validation Loss** | **0.1176** |
+| Metric | Overall | Segment Crack | Segment Taping Area |
+| :--- | :--- | :--- | :--- |
+| **mIoU** | **0.5781** | 0.4409 | 0.6168 |
+| **Dice Score** | **0.7326** | 0.6120 | 0.7630 |
+| **Validation Loss** | **0.1176** | - | - |
 
 ## Visual Examples
 Below are examples from the validation set (Epoch 6).
